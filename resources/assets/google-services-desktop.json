@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779976553303",
+    "firebase_url": "https://ludo-king-android.firebaseio.com",
+    "project_id": "ludo-king-android",
+    "storage_bucket": "ludo-king-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779976553303:android:ef52b5931d11abde",
+        "android_client_info": {
+          "package_name": "com.ludo.king"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779976553303-r4jfi2d3segl7a1n9vprdh2usnfmeu14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5mB3qV4V_XcLdSevTcTUknGADhHFDYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
